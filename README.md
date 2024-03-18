@@ -6,8 +6,8 @@
 <img align="right" alt="GIF" src="image1.gif" width="450" height="320" />
 
 - 👋 Hi, I’m @Bharath Halwai.
-- 👀 I’m interested in cybersecurity and webdesigning..
-- 🌱 I’m currently learning Python & JavaScript...
+- 👀 I’m a Full stack Network Administrator
+- 🌱 I’m currently learning Python for Network Automation
 - 🤭 Intrested to explore space and No gravity areas.
 - 💞️ I’m looking to collaborate.
 - 💪 If you are good at something. Never do it for free. 
