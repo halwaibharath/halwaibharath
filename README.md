@@ -7,11 +7,11 @@
 
 - 👋 Hi, I’m @Bharath Halwai.
 - 👀 I’m a Full stack Network Administrator
-- 🌱 I’m currently learning Python for Network Automation
+- 🌱 I’m currently learning Network Automation
 - 🤭 Intrested to explore space and No gravity areas.
 - 💞️ I’m looking to collaborate.
 - 💪 If you are good at something. Never do it for free. 
-- 📫 Contact me halwai.bharath520@gmail.com.
+- 📫 Contact me bharathx789@gmail.com.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
