@@ -2,7 +2,7 @@
 
 👋 Hey there, I'm BHARATH HALWAI. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Deeply addicted to Dark.
 
-<img align="right" alt="GIF" src="image1.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="image1.gif" width="450" height="300" />
 
 - 👋 Hi, I’m @Bharath Halwai.
 - 👀 I’m a Full stack Network Administrator
@@ -27,8 +27,15 @@
 <br />
 
 ### Skills and Tools:
-<img align="left" alt="Cisco" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Cisco_logo_blue_2016.svg" /> <img align="left" alt="Palo Alto" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Palo_Alto_Networks_logo.svg" /> <img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Wireshark_Logo.png" /> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" /> <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img align="left" alt="Palo Alto" src="https://img.shields.io/badge/Palo%20Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <br />
-
 
 
