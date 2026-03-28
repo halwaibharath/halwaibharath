@@ -11,7 +11,6 @@
 - 🤭 Intrested to explore space and No gravity areas.
 - 💞️ I’m looking to collaborate.
 - 💪 If you are good at something. Never do it for free. 
-- 📫 Contact me bharathx789@gmail.com.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
@@ -21,10 +20,10 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
 [website]: https://lbgeeks.tech
-[twitter]: https://twitter.com/Bharath_Haroon
-[youtube]: https://www.youtube.com/channel/UC9de88F-L9E4KbgzgHEvhPQ
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/channel/
 [instagram]: https://www.instagram.com/bharath_haroon/
-[linkedin]: https://www.linkedin.com/in/halwai-bharath-a79479150/
+[linkedin]: https://github.com/halwaibharath/
 
 <br />
 
